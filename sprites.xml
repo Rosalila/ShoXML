@@ -875,6 +875,32 @@
             path="sprites/on hit/standup/4.png" scale="1"
             to_opponent="no" variable="current_image"/>
     </Move>
+    <Move name="on_hit.air_knockdown_part2">
+        <Sprite align_x="87" align_y="-20" frame_number="1"
+            path="sprites/on hit/knockdown/1.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+        <Sprite align_x="87" align_y="-20" frame_number="2"
+            path="sprites/on hit/knockdown/2.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+        <Sprite align_x="87" align_y="-20" frame_number="3"
+            path="sprites/on hit/knockdown/3.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+        <Sprite align_x="87" align_y="-20" frame_number="4"
+            path="sprites/on hit/knockdown/4.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+        <Sprite align_x="87" align_y="-20" frame_number="5"
+            path="sprites/on hit/standup/1.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+        <Sprite align_x="87" align_y="-20" frame_number="6"
+            path="sprites/on hit/standup/2.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+        <Sprite align_x="87" align_y="-20" frame_number="7"
+            path="sprites/on hit/standup/3.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+        <Sprite align_x="87" align_y="-20" frame_number="8"
+            path="sprites/on hit/standup/4.png" scale="1"
+            to_opponent="no" variable="current_image"/>
+    </Move>
     <Move name="grab throw punch">
         <Sprite align_x="120" align_y="0" frame_number="1"
             path="sprites/grab/throw punch/1.png" scale="1"

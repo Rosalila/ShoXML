@@ -673,6 +673,9 @@
 	<Input move_name="on_hit.grab_throw_kick">
 		<button value="*"/>
 	</Input>
+	<Input move_name="on_hit.air_knockdown_part2">
+		<button value="*"/>
+	</Input>
 	<Input move_name="on_hit.knockdown">
 		<button value="*"/>
 	</Input>
@@ -684,6 +687,12 @@
 	</Input>
 
 	<!-- Defense -->
+	<Input move_name="blockstun.stand">
+		<button value="*"/>
+	</Input>
+	<Input move_name="blockstun.crouch">
+		<button value="*"/>
+	</Input>
 	<Input move_name="defense.stand">
 		<button value="4"/>
 	</Input>
